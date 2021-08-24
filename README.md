@@ -1,10 +1,10 @@
 # Blog Personal
 
 ~~~
-- En este apartado escribo notas, las cuales en algun momento me ayudan a recodar 
+- En este apartado escribo notas, las cuales en algun momento me ayudan a recordar 
 ~~~
 
-** Temas  a tratar **
+**Temas  a tratar**
 - Pentesting
 - Porgramacion .Net C#, Java, algunos mas
 - otros de interes.
