@@ -22,7 +22,7 @@ name                     : "Kidcode1"
 description              : "Para Apender un poco de Seguridad Informatica, Programacion y Tema de Interes"
 url                      : "https://kidcode1.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "slemire/slemire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : #"slemire/slemire.github.io" GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -78,7 +78,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : https://twitter.com/kidcode_1
+  username               : kidcode_1
 facebook:
   username               : 
   app_id                 :
@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/avatar.png"
   bio              : "Apasionado por la Seguidad Informatica y el Coding"
   location         : "Peru"
-  LinkedIn         : "https://www.linkedin.com/in/robert-ureta-saez-21542584/"
+  LinkedIn         : "robert-ureta-saez-21542584/"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -114,19 +114,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/k1dcode1"
+  github           : "k1dcode1"
   gitlab           :
   google_plus      :
   keybase          : "kidcode1"
   instagram        :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/robert-ureta-saez-21542584/ #"john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : robert-ureta-saez-21542584/ #"john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "https://twitter.com/kidcode_1"
+  twitter          : "kidcode_1"
   vine             :
   weibo            :
   xing             :
