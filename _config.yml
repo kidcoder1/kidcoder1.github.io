@@ -105,7 +105,7 @@ author:
   avatar           : "/assets/images/avatar.png"
   bio              : "Apasionado por la Seguidad Informatica y el Coding"
   location         : "Peru"
-  LinkedIn         : "robert-ureta-saez-21542584/"
+  LinkedIn         : "robert-rb-21542584/"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -120,7 +120,7 @@ author:
   keybase          : "kidcode1"
   instagram        :
   lastfm           :
-  linkedin         : robert-ureta-saez-21542584/ #"john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : robert-rb-21542584/ #"john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
