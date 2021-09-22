@@ -73,6 +73,8 @@ Volvemos a HOME, y nos clonamos el script para instalar el zsh.
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+
+git clone https://github.com/zsh-users/zsh-autosuggestions.git $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ```
 
 Vamos a editar el archivo ~/.zshrc, hare uso de vim. buscamos la linea donde dice plugins=(git )
