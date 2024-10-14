@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "dark" # "air","haxor", "aqua", "contrast", "dark", "
 locale                   : "Peru"
 title                    : "Blog Personal y Ciberseguridad"
 title_separator          : "-"
-name                     : "Kidcode1"
+name                     : "Kidcoder1"
 description              : "Para Apender un poco de Seguridad Informatica, Programacion y Tema de Interes"
 url                      : "https://kidcode1.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kidcode1"
+  name             : "Rober Ureta (Kidcoder1)"
   avatar           : "/assets/images/avatar.png"
   bio              : "Apasionado por la Seguidad Informatica y el Coding"
   location         : "Peru"
@@ -175,7 +175,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-incremental: true
+incremental: false
 
 
 # Markdown Processing
