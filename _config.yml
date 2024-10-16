@@ -10,9 +10,15 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
+<<<<<<< HEAD
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme             : "mmistakes/minimal-mistakes" #"mmistakes/minimal-mistakes@4.15.1"
 minimal_mistakes_skin    : "dark" # "air","haxor", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+=======
+# theme                  : "minimal-mistakes-jekyll"
+remote_theme             : "mmistakes/minimal-mistakes@4.15.1"
+minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+>>>>>>> 94fefe5 (full update oct24-2)
 
 # Site Settings
 locale                   : "Peru"
@@ -22,7 +28,11 @@ name                     : "Kidcoder1"
 description              : "Para Apender un poco de Seguridad Informatica, Programacion y Tema de Interes"
 url                      : "https://kidcode1.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
+<<<<<<< HEAD
 repository               : #"slemire/slemire.github.io" GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+=======
+repository               : "kidcoder1/kidcoder1.github.io" #"slemire/slemire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+>>>>>>> 94fefe5 (full update oct24-2)
 logo                     : "/assets/images/masthead.png"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : true # true, false (default)
@@ -35,9 +45,15 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
+<<<<<<< HEAD
     appid                : # 
     num_posts            : # 5 (default)
     colorscheme          : "dark" # "light" (default), "dark"
+=======
+    appid                :
+    num_posts            : # 5 (default)
+    colorscheme          : # "light" (default), "dark"
+>>>>>>> 94fefe5 (full update oct24-2)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -78,9 +94,15 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
+<<<<<<< HEAD
   username               : kidcode_1
 facebook:
   username               : 
+=======
+  username               :  kidcode_1
+facebook:
+  username               :
+>>>>>>> 94fefe5 (full update oct24-2)
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -105,7 +127,11 @@ author:
   avatar           : "/assets/images/avatar.png"
   bio              : "Apasionado por la Seguidad Informatica y el Coding"
   location         : "Peru"
+<<<<<<< HEAD
   LinkedIn         : "rober-ureta-21542584/" #rober-ureta-21542584
+=======
+  email            : "rober-ureta-21542584/"
+>>>>>>> 94fefe5 (full update oct24-2)
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -120,7 +146,11 @@ author:
   keybase          : "kidcode1"
   instagram        :
   lastfm           :
+<<<<<<< HEAD
   linkedin         : rober-ureta-21542584/ #"john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+=======
+  linkedin         : rober-ureta-21542584/ # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+>>>>>>> 94fefe5 (full update oct24-2)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -269,4 +299,8 @@ defaults:
       read_time: false
       comments: false
       share: false
+<<<<<<< HEAD
       related: true
+=======
+      related: true
+>>>>>>> 94fefe5 (full update oct24-2)

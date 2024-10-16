@@ -3,4 +3,7 @@ _site
 .jekyll-metadata
 _drafts
 .DS_Store
+<<<<<<< HEAD
 .env
+=======
+>>>>>>> 94fefe5 (full update oct24-2)
