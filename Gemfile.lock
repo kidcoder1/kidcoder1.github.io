@@ -39,11 +39,8 @@ GEM
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
-<<<<<<< HEAD
-    faraday-retry (2.2.0)
+    faraday-retry (2.2.1)
       faraday (~> 2.0)
-=======
->>>>>>> 94fefe5 (full update oct24-2)
     ffi (1.16.3-x64-mingw-ucrt)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
@@ -267,23 +264,15 @@ GEM
     unf_ext (0.0.8.2)
     unicode-display_width (1.8.0)
     wdm (0.1.1)
-<<<<<<< HEAD
-    webrick (1.8.1)
-=======
     webrick (1.8.2)
->>>>>>> 94fefe5 (full update oct24-2)
 
 PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-<<<<<<< HEAD
   faraday-retry
   github-pages
   jekyll (~> 3.9)
-=======
-  github-pages
->>>>>>> 94fefe5 (full update oct24-2)
   jekyll-feed (~> 0.6)
   jekyll-include-cache
   minima (~> 2.0)
@@ -292,8 +281,4 @@ DEPENDENCIES
   webrick (~> 1.8)
 
 BUNDLED WITH
-<<<<<<< HEAD
-   2.4.20
-=======
    2.5.21
->>>>>>> 94fefe5 (full update oct24-2)
