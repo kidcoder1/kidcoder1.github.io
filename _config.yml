@@ -23,7 +23,7 @@ title                    : "Blog Personal y Ciberseguridad"
 title_separator          : "-"
 name                     : "Kidcoder1"
 description              : "Para Apender un poco de Seguridad Informatica, Programacion y Tema de Interes"
-url                      : "https://kidcode1.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://kidcoder1.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : #"slemire/slemire.github.io" GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 repository               : "kidcoder1/kidcoder1.github.io" #"slemire/slemire.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -111,7 +111,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kidcoder1"
+  name             : "Rober Ureta (Kidcoder1)"
   avatar           : "/assets/images/avatar.png"
   bio              : "Apasionado por la Seguidad Informatica y el Coding"
   location         : "Peru"

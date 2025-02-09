@@ -9,6 +9,11 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 # gem "jekyll", "~> 3.8.5"
+#para cambiar el color de texto selecionado solo jugar con _sass/minimal-mistakes/_reset.scss 
+#moz-selection{color:#fff;
+#::selection {
+#  color: #fff;
+#  background: #000;
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"

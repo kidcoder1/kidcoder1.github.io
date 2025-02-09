@@ -3,6 +3,7 @@ title: "About"
 permalink: /about/
 date: 2024-10-15
 ---
+<div style="margin: 60px; padding: 20px; border: 0px solid black; border-radius: 15px; text-align: left;">
 ## Perfil
 
 <div style="color: green;">
@@ -16,9 +17,9 @@ En el mundo actual, donde la tecnología avanza a pasos agigantados, la figura d
 </div>
 
 :coffee:
-
+<h2>
 # Formación y Aprendizaje
-
+</h2>
 <div style="text-align: justify;">
 Aunque he recibido formación formal en ingeniería de sistemas, mi verdadera educación ha sido autodidacta. Desde mis primeros pasos en la programación, he explorado diversas áreas de la informática, como desarrollo web, inteligencia artificial y bases de datos. Este enfoque me ha permitido adaptarme rápidamente a las tendencias del mercado y adquirir habilidades prácticas que complementan mi formación académica.
 </div>
@@ -28,9 +29,9 @@ La curiosidad y el deseo de aprender me han llevado a explorar cursos en línea,
 </div>
 
 :coffee:
-
+<h2>
 # Habilidades y Experiencia
-
+</h2>
 <div style="text-align: justify;">
 Mi experiencia profesional incluye el desarrollo de aplicaciones, la implementación de sistemas informáticos y la gestión de proyectos tecnológicos. He trabajado en entornos diversos, desde startups hasta empresas consolidadas, donde he tenido la oportunidad de liderar proyectos desafiantes y colaborar con equipos multidisciplinarios.
 </div>
@@ -40,9 +41,9 @@ Mis habilidades técnicas abarcan varios lenguajes de programación, como Python
 </div>
 
 :coffee:
-
+<h2>
 # Pasión por la Informática
-
+</h2>
 <div style="text-align: justify;">
 La informática no es solo una profesión para mí; es una pasión. Me fascina cómo la tecnología puede transformar la vida cotidiana y resolver problemas complejos. Disfruto explorar nuevas tendencias, como la inteligencia artificial y el machine learning, y me motiva la idea de contribuir a innovaciones que mejoren la calidad de vida de las personas.
 </div>
@@ -52,16 +53,14 @@ Participar en hackatones, conferencias y comunidades tecnológicas es una parte 
 </div>
 
 :coffee:
-
+<h2>
 # Conclusión
-
+</h2>
 <div style="text-align: justify;">
 Como ingeniero de sistemas autodidacta y entusiasta de la informática, estoy comprometido con el aprendizaje continuo y la innovación. Mi objetivo es seguir creciendo profesionalmente, contribuyendo con soluciones tecnológicas que marquen la diferencia en el mundo actual. Estoy convencido de que el conocimiento compartido y la colaboración son claves para impulsar el avance tecnológico y mejorar nuestra sociedad.
 </div>
 
-
+</div>
 [My Public Inbox](https://www.mypublicinbox.com/kidcode1)
-
-
 
 :joy: :sun_with_face: :coffee:  :100:  :beer:  :musical_note: :printer:  :smile_cat:
